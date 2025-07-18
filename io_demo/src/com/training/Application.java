@@ -1,7 +1,5 @@
 package com.training;
 
-import java.io.File;
-import java.io.IOException;
 
 import com.training.model.Employee;
 import com.training.services.FileService;

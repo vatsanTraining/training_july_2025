@@ -1,9 +1,9 @@
+package com.training.demo;
 import java.util.*;
 import java.util.stream.*;
 public class ExistAndfinder {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
         List<Integer> numbers = Arrays.asList(1, 2, 56,3,26, 4, 5);
         Stream<Integer> numberStream = numbers.stream();
