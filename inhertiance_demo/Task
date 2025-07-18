@@ -1,0 +1,22 @@
+calculatePremium for Insurance Policy
+
+Insurance  - superclass
+  policyHolderName, policyAmount 
+  calculatePremium
+LifeInsurance, HealthInsurance, FireInsurance  - subclass
+
+
+HealthInsurance
+preexisitng
+age
+
+calcuatePremium
+LifeInsurance
+
+InsuranceService 
+
+  print(Insurance abc)
+  
+  
+  
+  

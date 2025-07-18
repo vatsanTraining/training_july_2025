@@ -1,0 +1,20 @@
+Stores the details of CreditCard and print them
+
+creditCard
+cardNumber long
+cardHolderName string
+creditLimit double
+
+
+task -2
+
+billingAddress Address
+
+
+
+Address
+addLine1
+addLin2;
+city
+pincode
+

@@ -1,0 +1,60 @@
+Create an Interface BankAccount with Methods deposit and withdraw
+
+Create SavingsAccount and CurrentAccount class and Implement the BankAccount Interface
+
+Add additional attribute rateOfIntrest and method getInterest() in SavingsAccount 
+
+Add additional attribute overDrafLimit and a method getOverDrafLimit() in CurrentAccount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a Java Application to create a Catalogue of given type of  Item  
+The Details of Items with required details are stored in memory
+Given Category the catalogue should be generated with all the required List 
+Also the application should be able to give the count of items available in a given category
+It should also give the details of the Highest and lowest priced items in a given category
+Use Interface Based Design and Effective Exception Handling - Create a Custom Exception Class 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+The Two Popular Creation Patterns in Java - Singleton and Factory - Khaja Baba Shaik
+
+The Two Popular Behaviour Pattern - Command and Template -- Vikram
+
+How does Garbage Collector Works in in Java - History of Garbage Collection Strategy in java   = Krishna
+ 
+Role of  Reflection API in Java  = DJ
+
+
+ 
+ 

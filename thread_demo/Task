@@ -1,0 +1,2 @@
+Use Future.get ,InvokeAll and AwaitTermination to create a Application for interthread communication
+
