@@ -7,6 +7,8 @@ public class Application {
 
 	public static void print(CreditCard[] list) {
 		
+		
+		
    for(CreditCard eachCard:list) {
 			   
 			   if(eachCard==null) {
